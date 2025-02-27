@@ -1,5 +1,18 @@
  как можно заметить в demo у человечка есть пуговицы
 
+мои комиты:
+в сравнении с демо у человека из мастера нет пуговиц
+Merage remote-tracking bunch 'origin/buttons_buttons'
+Merage remote-tracking bunch 'origin/hat'
+Merage remote-tracking bunch 'origin/boots' into boots_buttons
+
+изначальные комиты:
+fix readme
+README added
+boots
+heat added
+init
+
 
     =====
  ===========
